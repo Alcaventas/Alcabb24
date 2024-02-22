@@ -11,18 +11,18 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['528241050228', '👑 𝗔𝗹𝗰𝗮𝗯𝗼𝘁|𝟮𝟬𝟮𝟰', true],
+  ['529842546070', '👑 𝗔𝗻𝗻𝗶𝗲 𝗩𝗻𝘁𝘀', true],
 ];
 
 global.suittag = ['5219993404349'];
 global.prems = ['51995386439'];
 
 global.packname = 'Sticker';
-global.author = '𝗔𝗹𝗰𝗮𝗯𝗼𝘁|𝟮𝟬𝟮𝟰';
-global.wm = '𝗔𝗹𝗰𝗮𝗯𝗼𝘁|𝟮𝟬𝟮𝟰';
-global.titulowm = '𝗔𝗹𝗰𝗮𝗯𝗼𝘁|𝟮𝟬𝟮𝟰';
-global.titulowm2 = `𝗔𝗹𝗰𝗮𝗯𝗼𝘁|𝟮𝟬𝟮𝟰`
-global.igfg = '𝗔𝗹𝗰𝗮𝗯𝗼𝘁|𝟮𝟬𝟮𝟰';
+global.author = '𝗔𝗻𝗻𝗶𝗲 𝗩𝗻𝘁𝘀';
+global.wm = '𝗔𝗻𝗻𝗶𝗲 𝗩𝗻𝘁𝘀';
+global.titulowm = '𝗔𝗻𝗻𝗶𝗲 𝗩𝗻𝘁𝘀';
+global.titulowm2 = `𝗔𝗻𝗻𝗶𝗲 𝗩𝗻𝘁𝘀`
+global.igfg = '𝗔𝗻𝗻𝗶𝗲 𝗩𝗻𝘁𝘀';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -42,9 +42,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝗔𝗹𝗰𝗮𝗯𝗼𝘁|𝟮𝟬𝟮𝟰`;
-global.gt = '𝗔𝗹𝗰𝗮𝗯𝗼𝘁|𝟮𝟬𝟮𝟰';
-global.mysticbot = '𝗔𝗹𝗰𝗮𝗯𝗼𝘁|𝟮𝟬𝟮𝟰';
+global.wm2 = `${dia} ${fecha}\n𝗔𝗻𝗻𝗶𝗲 𝗩𝗻𝘁𝘀`;
+global.gt = '𝗔𝗻𝗻𝗶𝗲 𝗩𝗻𝘁𝘀';
+global.mysticbot = '𝗔𝗻𝗻𝗶𝗲 𝗩𝗻𝘁𝘀';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*[ ⏳ ] Cargando...*';
